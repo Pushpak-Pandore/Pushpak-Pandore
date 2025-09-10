@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="top" width="60%">
 
 - 🚀 Aspiring **Cybersecurity Professional** passionate about **Offensive Security & Red Teaming**  
 - 🛠️ Love building **security tools** and exploring real-world vulnerabilities  
@@ -12,11 +12,12 @@
 - 📚 Active in **CTFs & security writeups**, sharing knowledge with the community.  
 
     </td>
-    <td>
-      <img src="https://imgs.search.brave.com/74sYHk94DXcV2Qy3FbSMym_C8eFsvz40QFto91q2f68/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TGtRenc3azVEVjRB/QUFBTS9hbmltZS1o/YWNraW5nLmdpZg.gif" alt="coding gif" width="300">
-     </td>
+    <td width="40%">
+      <img src="https://imgs.search.brave.com/74sYHk94DXcV2Qy3FbSMym_C8eFsvz40QFto91q2f68/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TGtRenc3azVEVjRB/QUFBTS9hbmltZS1o/YWNraW5nLmdpZg.gif"" alt="coding gif" width="300">
+    </td>
   </tr>
 </table>
+
 
 
 
