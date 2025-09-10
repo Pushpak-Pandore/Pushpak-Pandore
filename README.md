@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div style="flex: 1;">
+<img align="right" alt="coding gif" width="300" src="https://imgs.search.brave.com/74sYHk94DXcV2Qy3FbSMym_C8eFsvz40QFto91q2f68/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TGtRenc3azVEVjRB/QUFBTS9hbmltZS1o/YWNraW5nLmdpZg.gif">
 
 - 🚀 Aspiring **Cybersecurity Professional** passionate about **Offensive Security & Red Teaming**  
 - 🛠️ Love building **security tools** and exploring real-world vulnerabilities  
@@ -11,11 +9,6 @@
 - 🎯 Driven to contribute to **open-source projects** and strengthen cyber defense  
 - 📚 Active in **CTFs & security writeups**, sharing knowledge with the community.  
 
-</div>
-
-<img src="https://imgs.search.brave.com/74sYHk94DXcV2Qy3FbSMym_C8eFsvz40QFto91q2f68/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TGtRenc3azVEVjRB/QUFBTS9hbmltZS1o/YWNraW5nLmdpZg.gif" alt="coding gif" width="300" style="margin-left: 20px;"/>
-
-</div>
 
 
 
