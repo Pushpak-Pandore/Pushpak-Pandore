@@ -1,8 +1,4 @@
 # 💫 About Me:
-<table>
-  <tr>
-    <td>
-
 - 🚀 Aspiring **Cybersecurity Professional** passionate about **Offensive Security & Red Teaming**  
 - 🛠️ Love building **security tools** and exploring real-world vulnerabilities  
 - 💡 Constant learner in **Pentesting, Malware Analysis & AI-driven Security**  
@@ -10,12 +6,8 @@
 - 🎯 Driven to contribute to **open-source projects** and strengthen cyber defense  
 - 📚 Active in **CTFs & security writeups**, sharing knowledge with the community.  
 
-    </td>
-    <td>
-      <img src="https://media.tenor.com/LtQX6S2xVhYAAAAd/hacking-hacker.gif" alt="coding gif" width="300">
-    </td>
-  </tr>
-</table>
+<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/74sYHk94DXcV2Qy3FbSMym_C8eFsvz40QFto91q2f68/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TGtRenc3azVEVjRB/QUFBTS9hbmltZS1o/YWNraW5nLmdpZg.gif">
+
 
 
 ## 🌐 Socials:
