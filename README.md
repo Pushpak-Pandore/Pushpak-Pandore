@@ -1,5 +1,10 @@
 # 💫 About Me:
-## -🚀 Aspiring **Cybersecurity Professional** with a strong interest in **Offensive Security, Red Teaming, and Threat Analysis**.  <br>- 🛠️ Passionate about **building security tools** (offensive & defensive) and exploring real-world vulnerabilities.  <br>- 💡 Constant learner, currently diving deeper into **Pentesting, Malware Analysis, AI in Security, and Threat Intelligence**.  <br>- 🌱 I enjoy experimenting with **automation, scripting, and exploit development** to make security research more efficient.  <br>- 🎯 Goal: To contribute to **open-source security projects** and help build a safer digital world.  <br>- 📚 Also interested in **CTFs, security writeups, and sharing knowledge** through blogs & community contributions.  <br>
+ - 🚀 Aspiring **Cybersecurity Professional** with a strong interest in **Offensive Security, Red Teaming, and Threat Analysis**.
+ - 🛠️ Passionate about **building security tools** (offensive & defensive) and exploring real-world vulnerabilities.
+ - 💡 Constant learner, currently diving deeper into **Pentesting, Malware Analysis, AI in Security, and Threat Intelligence**.
+ - 🌱 I enjoy experimenting with **automation, scripting, and exploit development** to make security research more efficient.
+ - 🎯 Goal: To contribute to **open-source security projects** and help build a safer digital world.
+ - 📚 Also interested in **CTFs, security writeups, and sharing knowledge** through blogs & community contributions.  <br>
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/74sYHk94DXcV2Qy3FbSMym_C8eFsvz40QFto91q2f68/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TGtRenc3azVEVjRB/QUFBTS9hbmltZS1o/YWNraW5nLmdpZg.gif
 
